@@ -1,4 +1,4 @@
-# Secure Social Media App
+# Social U
 
 This repository contains the code for a secure social media app with full authentication capabilities, allowing users to register, securely log in, and customize their profiles. The app also includes features for following other users, viewing posts, engaging with posts through likes, and uploading profile pictures.
 
